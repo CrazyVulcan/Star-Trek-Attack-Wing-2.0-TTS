@@ -23,7 +23,7 @@ function print(...)
 end
 
 -- Vector manipulation
-#include TTS_lib/Vector/Vector
+#include https://github.com/CrazyVulcan/Star-Trek-Attack-Wing-2.0-TTS/tree/master/TTS_lib/Vector
 
 -- Standard libraries extentions
 #include TTS_lib/Util/Util
