@@ -5081,7 +5081,7 @@ RulerModule.meshes.largeBase.range = {}
 RulerModule.meshes.largeBase.range[1] = '{verifycache}https://raw.githubusercontent.com/CrazyVulcan/CrazyVulcan.github.io/master/TTS_STAW2.0/assets/Items/arcranges/LargeR1.obj'
 RulerModule.meshes.largeBase.range[2] = '{verifycache}https://raw.githubusercontent.com/CrazyVulcan/CrazyVulcan.github.io/master/TTS_STAW2.0/assets/Items/arcranges/LargeR2.obj'
 RulerModule.meshes.largeBase.range[3] = '{verifycache}https://raw.githubusercontent.com/CrazyVulcan/CrazyVulcan.github.io/master/TTS_STAW2.0/assets/Items/arcranges/LargeR3.obj'
-RulerModule.meshes.largeBase.range[4] = '{verifycache}https://raw.githubusercontent.com/CrazyVulcan/TTS_STAW2.0/assets/Items/arcranges/LargeR4.obj'
+RulerModule.meshes.largeBase.range[4] = '{verifycache}https://raw.githubusercontent.com/CrazyVulcan/Star-Trek-Attack-Wing-2.0-TTS/assets/Items/arcranges/LargeR4.obj'
 
 
 -- Avaialble ruler codes:
